@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">A passionate Learner | IT Engineer | Jr. Software developer | Open Source Contributor</h5>
+<h5 align="center">A passionate Learner | IT Engineer | Jr. Software developer </h5>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱  I’m currently learning Web Technologies and Cloud Computing<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms<br><br>📫 How to reach me vanshitagaikwad96@gmail.com<br><br>⚡ Fun fact I love 🐶🐱❤️ and listen Music.</p>
+<p align="left">🌱  I’m currently learning Web Technologies <br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>🤝 I’m looking for help with Data Structures and Algorithms<br><br>📫 How to reach me vanshitagaikwad96@gmail.com<br><br>⚡ Fun fact Dogs are loyal than humans🐶❤️.</p>
 
 ###
 
